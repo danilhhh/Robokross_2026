@@ -1,9 +1,15 @@
 ﻿STEP to UG
 ! INFO-     NX STEP AP203 - V10.0
 ! INFO-      
+<<<<<<< Updated upstream
 ! INFO-     Start of Translation: 30-MAR-2026  3:06:42 PM
 ! INFO-      
 ! STATUS-   Converting Part: C:\Users\danvl\Desktop\Робокросс_2026\Общая сборка V3.stp
+=======
+! INFO-     Start of Translation: 4-APR-2026  10:04:46 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Общая сборка V3.stp
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-    STEP Header Information
 ! SUMMARY-   
@@ -100,12 +106,20 @@
 ! SUMMARY-                                                               -------
 ! SUMMARY-  Total                                                          85660
 ! STATUS-    
+<<<<<<< Updated upstream
 ! STATUS-   Converting to Output Form (Phase 2 of 3): 30-MAR-2026 3:06:42 PM
+=======
+! STATUS-   Converting to Output Form (Phase 2 of 3): 4-APR-2026 10:04:47 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-    
 ! STATUS-   Generating UG geometry and placing them in parts
 ! STATUS-    
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:47 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16683
 ! STATUS-    
@@ -117,10 +131,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_шарнир чаша_0
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_шарнир чаша_0:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир чаша_0
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир чаша_0:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -129,7 +149,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:47 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16684
 ! STATUS-    
@@ -139,10 +163,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_м8_0
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_м8_0:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_м8_0
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_м8_0:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -151,7 +181,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:48 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16685
 ! STATUS-    
@@ -161,10 +195,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_шарнир шар_0
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_шарнир шар_0:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир шар_0
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир шар_0:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -173,7 +213,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:48 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16686
 ! STATUS-    
@@ -183,10 +227,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_шарнир шар
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_шарнир шар:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир шар
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир шар:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -195,7 +245,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:48 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 11863
 ! STATUS-    
@@ -241,10 +295,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_нижний рычаг 3
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_нижний рычаг 3:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_нижний рычаг 3
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_нижний рычаг 3:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -253,7 +313,11 @@
 ! SUMMARY-  Solid .......................:     5
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              5
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:48 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16691
 ! STATUS-    
@@ -281,10 +345,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_688-2RS_2
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_688-2RS_2:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS_2
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS_2:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -293,7 +363,11 @@
 ! SUMMARY-  Solid .......................:     3
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              3
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:48 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16694
 ! STATUS-    
@@ -303,10 +377,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_м8
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_м8:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_м8
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_м8:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -315,7 +395,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:48 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16695
 ! STATUS-    
@@ -325,10 +409,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_болт м10
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_болт м10:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_болт м10
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_болт м10:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -337,7 +427,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:48 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16696
 ! STATUS-    
@@ -365,10 +459,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_688-2RS_1
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_688-2RS_1:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS_1
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS_1:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -377,7 +477,11 @@
 ! SUMMARY-  Solid .......................:     3
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              3
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:48 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16699
 ! STATUS-    
@@ -405,10 +509,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_688-2RS_0
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_688-2RS_0:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS_0
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS_0:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -417,7 +527,11 @@
 ! SUMMARY-  Solid .......................:     3
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              3
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:43 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:49 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16702
 ! STATUS-    
@@ -445,10 +559,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_688-2RS
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_688-2RS:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -457,7 +577,11 @@
 ! SUMMARY-  Solid .......................:     3
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              3
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:44 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:49 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16705
 ! STATUS-    
@@ -469,10 +593,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_шарнир чаша
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_шарнир чаша:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир чаша
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир чаша:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -481,7 +611,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:44 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:49 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 11864
 ! STATUS-    
@@ -527,10 +661,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_верхний рычаг 4
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_верхний рычаг 4:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_верхний рычаг 4
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_верхний рычаг 4:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -539,7 +679,11 @@
 ! SUMMARY-  Solid .......................:     5
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              5
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:44 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:49 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16706
 ! STATUS-    
@@ -551,10 +695,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Мотор_колесо
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Мотор_колесо:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Мотор_колесо
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Мотор_колесо:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -563,7 +713,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:44 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:49 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16707
 ! STATUS-    
@@ -577,10 +731,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_кулак рулевой новый
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_кулак рулевой новый:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_кулак рулевой новый
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_кулак рулевой новый:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -589,7 +749,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:44 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:49 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16708
 ! STATUS-    
@@ -599,10 +763,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_рулевая сошка
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_рулевая сошка:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_рулевая сошка
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_рулевая сошка:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -611,7 +781,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:44 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:49 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16712
 ! STATUS-    
@@ -623,10 +797,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Шаровый шарнир_0
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Шаровый шарнир_0:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Шаровый шарнир_0
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Шаровый шарнир_0:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -635,7 +815,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:44 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:49 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16716
 ! STATUS-    
@@ -647,10 +831,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Шаровый шарнир
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Шаровый шарнир:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Шаровый шарнир
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Шаровый шарнир:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -659,7 +849,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:44 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16721
 ! STATUS-    
@@ -669,10 +863,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x350
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x350:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x350
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x350:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -681,7 +881,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16722
 ! STATUS-    
@@ -691,10 +895,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x530
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x530:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x530
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x530:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -703,7 +913,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16723
 ! STATUS-    
@@ -713,10 +927,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x130
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x130:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x130
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x130:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -725,7 +945,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16724
 ! STATUS-    
@@ -735,10 +959,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x370
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x370:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x370
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x370:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -747,7 +977,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16725
 ! STATUS-    
@@ -757,10 +991,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x20x90
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x20x90:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x20x90
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x20x90:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -769,7 +1009,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16726
 ! STATUS-    
@@ -779,10 +1023,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x60
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x60:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x60
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x60:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -791,7 +1041,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16727
 ! STATUS-    
@@ -801,10 +1055,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x200
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x200:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x200
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x200:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -813,7 +1073,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16728
 ! STATUS-    
@@ -823,10 +1087,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 40x40x1010
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 40x40x1010:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 40x40x1010
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 40x40x1010:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -835,7 +1105,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16729
 ! STATUS-    
@@ -845,10 +1119,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x50
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x50:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x50
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x50:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -857,7 +1137,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16730
 ! STATUS-    
@@ -867,10 +1151,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x190
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Труба 20x40x190:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x190
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x190:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -879,7 +1169,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16750
 ! STATUS-    
@@ -889,10 +1183,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Колесо 4000x100
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Колесо 4000x100:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Колесо 4000x100
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Колесо 4000x100:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -901,7 +1201,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:50 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16709
 ! STATUS-    
@@ -911,10 +1215,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Переходное крепление
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Переходное крепление:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Переходное крепление
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Переходное крепление:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -923,7 +1233,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16710
 ! STATUS-    
@@ -933,10 +1247,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_качалка
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_качалка:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_качалка
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_качалка:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -945,7 +1265,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:45 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16711
 ! STATUS-    
@@ -957,10 +1281,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Dinamixel MX64
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Dinamixel MX64:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Dinamixel MX64
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Dinamixel MX64:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -969,7 +1299,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16713
 ! STATUS-    
@@ -979,10 +1313,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Поворотный рычаг серединый
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Поворотный рычаг серединый:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг серединый
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг серединый:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -991,7 +1331,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16714
 ! STATUS-    
@@ -1001,10 +1345,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Поворотный рычаг крайний_0
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Поворотный рычаг крайний_0:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг крайний_0
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг крайний_0:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1013,7 +1363,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16715
 ! STATUS-    
@@ -1023,10 +1377,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Поворотный рычаг крайний
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Поворотный рычаг крайний:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг крайний
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг крайний:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1035,7 +1395,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16731
 ! STATUS-    
@@ -1045,10 +1409,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Мост
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Мост:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мост
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мост:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1057,7 +1427,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16732
 ! STATUS-    
@@ -1069,10 +1443,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Стойка
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Стойка:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Стойка
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Стойка:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1081,7 +1461,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16738
 ! STATUS-    
@@ -1093,10 +1477,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Редуктор
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Редуктор:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Редуктор
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Редуктор:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1105,7 +1495,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16739
 ! STATUS-    
@@ -1115,10 +1509,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Внешнее крепление редуктора часть1
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Внешнее крепление редуктора часть1:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Внешнее крепление редуктора часть1
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Внешнее крепление редуктора часть1:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1127,7 +1527,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:51 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16740
 ! STATUS-    
@@ -1137,10 +1541,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Подшипник 6205 2RS
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Подшипник 6205 2RS:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Подшипник 6205 2RS
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Подшипник 6205 2RS:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1149,7 +1559,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16741
 ! STATUS-    
@@ -1159,10 +1573,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Подшипник 3056205
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Подшипник 3056205:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Подшипник 3056205
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Подшипник 3056205:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1171,7 +1591,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16742
 ! STATUS-    
@@ -1183,10 +1607,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Крепление нижнее
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Крепление нижнее:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Крепление нижнее
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Крепление нижнее:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1195,7 +1625,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:46 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16743
 ! STATUS-    
@@ -1207,10 +1641,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Крепление верхнее
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Крепление верхнее:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Крепление верхнее
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Крепление верхнее:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1219,7 +1659,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16744
 ! STATUS-    
@@ -1231,10 +1675,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\mirror_Крепление верхнее
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Крепление верхнее:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Крепление верхнее
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Крепление верхнее:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1243,7 +1693,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16745
 ! STATUS-    
@@ -1253,10 +1707,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Шпилька_М16_Подвеска
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Шпилька_М16_Подвеска:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Шпилька_М16_Подвеска
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Шпилька_М16_Подвеска:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1265,7 +1725,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16746
 ! STATUS-    
@@ -1275,10 +1739,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\трубка длинная
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\трубка длинная:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\трубка длинная
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\трубка длинная:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1287,7 +1757,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16747
 ! STATUS-    
@@ -1297,10 +1771,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Переходник
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Переходник:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Переходник
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Переходник:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1309,7 +1789,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16748
 ! STATUS-    
@@ -1321,10 +1805,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Проушина
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Проушина:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Проушина
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Проушина:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1333,7 +1823,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16749
 ! STATUS-    
@@ -1343,10 +1837,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\трубка_короткая
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\трубка_короткая:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\трубка_короткая
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\трубка_короткая:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1355,7 +1855,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16751
 ! STATUS-    
@@ -1367,10 +1871,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Шаровый шарнир
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Шаровый шарнир:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Шаровый шарнир
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Шаровый шарнир:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1379,7 +1889,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:52 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16752
 ! STATUS-    
@@ -1389,10 +1903,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\рулевая сошка
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\рулевая сошка:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\рулевая сошка
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\рулевая сошка:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1401,7 +1921,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16758
 ! STATUS-    
@@ -1447,10 +1971,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\нижний рычаг 3
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\нижний рычаг 3:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\нижний рычаг 3
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\нижний рычаг 3:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1459,7 +1989,11 @@
 ! SUMMARY-  Solid .......................:     5
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              5
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16762
 ! STATUS-    
@@ -1471,10 +2005,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\шарнир чаша
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\шарнир чаша:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнир чаша
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнир чаша:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1483,7 +2023,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16763
 ! STATUS-    
@@ -1493,10 +2037,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\шарнир шар
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\шарнир шар:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнир шар
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнир шар:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1505,7 +2055,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:47 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16764
 ! STATUS-    
@@ -1533,10 +2087,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\688-2RS
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\688-2RS:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\688-2RS
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\688-2RS:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1545,7 +2105,11 @@
 ! SUMMARY-  Solid .......................:     3
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              3
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:48 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16767
 ! STATUS-    
@@ -1557,10 +2121,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\заделка
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\заделка:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\заделка
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\заделка:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1569,7 +2139,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:48 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16768
 ! STATUS-    
@@ -1579,10 +2153,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\болт м10
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\болт м10:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\болт м10
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\болт м10:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1591,7 +2171,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:48 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16769
 ! STATUS-    
@@ -1601,10 +2185,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\м8
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\м8:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\м8
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\м8:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1613,7 +2203,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:48 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 11866
 ! STATUS-    
@@ -1659,10 +2253,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\верхний рычаг 4
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\верхний рычаг 4:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\верхний рычаг 4
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\верхний рычаг 4:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1671,7 +2271,11 @@
 ! SUMMARY-  Solid .......................:     5
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              5
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:48 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16784
 ! STATUS-    
@@ -1683,10 +2287,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Мотор_колесо
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Мотор_колесо:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мотор_колесо
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мотор_колесо:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1695,7 +2305,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:48 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:53 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16785
 ! STATUS-    
@@ -1709,10 +2323,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\кулак рулевой новый
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\кулак рулевой новый:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\кулак рулевой новый
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\кулак рулевой новый:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1721,7 +2341,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:48 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:54 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16733
 ! STATUS-    
@@ -1733,10 +2357,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Упорное крепление
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Упорное крепление:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Упорное крепление
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Упорное крепление:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1745,7 +2375,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:48 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:54 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16734
 ! STATUS-    
@@ -1757,10 +2391,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Упорное крепление_ответное
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Упорное крепление_ответное:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Упорное крепление_ответное
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Упорное крепление_ответное:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1769,7 +2409,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:54 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16735
 ! STATUS-    
@@ -1781,10 +2425,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Мотор_Flyipsky6374
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Мотор_Flyipsky6374:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мотор_Flyipsky6374
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мотор_Flyipsky6374:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1793,7 +2443,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:54 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16736
 ! STATUS-    
@@ -1803,10 +2457,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\тарелка мотора
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\тарелка мотора:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\тарелка мотора
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\тарелка мотора:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1815,7 +2475,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:54 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16737
 ! STATUS-    
@@ -1825,10 +2489,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\51102
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\51102:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\51102
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\51102:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1837,7 +2507,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:54 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16753
 ! STATUS-    
@@ -1849,10 +2523,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Dinamixel MX64
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Dinamixel MX64:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Dinamixel MX64
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Dinamixel MX64:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1861,7 +2541,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:54 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16754
 ! STATUS-    
@@ -1871,10 +2555,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Переходное крепление
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Переходное крепление:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Переходное крепление
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Переходное крепление:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1883,7 +2573,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:54 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16755
 ! STATUS-    
@@ -1893,10 +2587,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\качалка
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\качалка:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\качалка
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\качалка:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1905,7 +2605,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:55 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16756
 ! STATUS-    
@@ -1915,10 +2619,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Поворотный рычаг крайний
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Поворотный рычаг крайний:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг крайний
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг крайний:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1927,7 +2637,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:55 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16757
 ! STATUS-    
@@ -1937,10 +2651,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Поворотный рычаг серединый
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Поворотный рычаг серединый:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг серединый
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг серединый:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1949,7 +2669,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:55 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16774
 ! STATUS-    
@@ -1959,10 +2683,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\амортизатор верх
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\амортизатор верх:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\амортизатор верх
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\амортизатор верх:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1971,7 +2701,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:55 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16775
 ! STATUS-    
@@ -1981,10 +2715,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\чашка нижняя
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\чашка нижняя:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\чашка нижняя
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\чашка нижняя:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -1993,7 +2733,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:49 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:55 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16776
 ! STATUS-    
@@ -2005,8 +2749,13 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\пружина
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\пружина:
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\пружина
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\пружина:
+>>>>>>> Stashed changes
 ! ERROR-     
 ! ERROR-    File already exists
 ! SUMMARY-   
@@ -2017,7 +2766,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:50 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:55 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16777
 ! STATUS-    
@@ -2027,10 +2780,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\нижняя часть амортизатора
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\нижняя часть амортизатора:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\нижняя часть амортизатора
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\нижняя часть амортизатора:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2039,7 +2798,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:50 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:55 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16778
 ! STATUS-    
@@ -2049,10 +2812,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\амортизатор чашка
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\амортизатор чашка:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\амортизатор чашка
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\амортизатор чашка:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2061,7 +2830,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:50 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:55 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16779
 ! STATUS-    
@@ -2071,10 +2844,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\втулка амортизатора
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\втулка амортизатора:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\втулка амортизатора
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\втулка амортизатора:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2083,7 +2862,11 @@
 ! SUMMARY-  Solid .......................:     1
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              1
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:50 PM
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:55 PM
+>>>>>>> Stashed changes
 ! STATUS-    
 ! STATUS-   Creating UG solid body from Input Ent Id 16780
 ! STATUS-    
@@ -2126,10 +2909,16 @@
 ! STATUS-    
 ! STATUS-   doing final check of body to report any faults
 ! STATUS-    
+<<<<<<< Updated upstream
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\шарнирный наконечник
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\шарнирный наконечник:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнирный наконечник
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнирный наконечник:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2138,6 +2927,7 @@
 ! SUMMARY-  Solid .......................:     4
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              4
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:52 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: ПОВОРОТНЫЙ_РЫЧАГ_КРАЙНИЙ
@@ -2155,6 +2945,24 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Поворотный рычаг новый:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:57 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПОВОРОТНЫЙ_РЫЧАГ_КРАЙНИЙ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг крайний
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПОВОРОТНЫЙ_РЫЧАГ_КРАЙНИЙ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг крайний
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПОВОРОТНЫЙ_РЫЧАГ_СЕРЕДИНЫЙ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг серединый
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг новый
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг новый:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2162,6 +2970,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:52 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: DINAMIXEL_MX64
@@ -2179,6 +2988,24 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Сервопривод с крепление:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:58 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: DINAMIXEL_MX64
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Dinamixel MX64
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПЕРЕХОДНОЕ_КРЕПЛЕНИЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Переходное крепление
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: КАЧАЛКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\качалка
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Сервопривод с крепление
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Сервопривод с крепление:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2186,6 +3013,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: ШАРОВЫЙ_ШАРНИР
@@ -2211,6 +3039,32 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Рулевое управление:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:58 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШАРОВЫЙ_ШАРНИР
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Шаровый шарнир
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШАРОВЫЙ_ШАРНИР
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Шаровый шарнир
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: РУЛЕВАЯ_СОШКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\рулевая сошка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: СЕРВОПРИВОД_С_КРЕПЛЕНИЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Сервопривод с крепление
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПОВОРОТНЫЙ_РЫЧАГ_НОВЫЙ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Поворотный рычаг новый
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Рулевое управление
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Рулевое управление:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2218,6 +3072,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: АМОРТИЗАТОР_ВЕРХ
@@ -2255,6 +3110,44 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\амортизатор:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:58 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: АМОРТИЗАТОР_ВЕРХ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\амортизатор верх
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ЧАШКА_НИЖНЯЯ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\чашка нижняя
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПРУЖИНА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\пружина
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: НИЖНЯЯ_ЧАСТЬ_АМОРТИЗАТОРА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\нижняя часть амортизатора
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: АМОРТИЗАТОР_ЧАШКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\амортизатор чашка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ВТУЛКА_АМОРТИЗАТОРА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\втулка амортизатора
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШАРНИРНЫЙ_НАКОНЕЧНИК
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнирный наконечник
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШАРНИРНЫЙ_НАКОНЕЧНИК
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнирный наконечник
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\амортизатор
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\амортизатор:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2262,6 +3155,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: НИЖНИЙ_РЫЧАГ_3
@@ -2343,6 +3237,88 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\подвеска:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:58 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: НИЖНИЙ_РЫЧАГ_3
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\нижний рычаг 3
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШАРНИР_ЧАША
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнир чаша
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШАРНИР_ШАР
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнир шар
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШАРНИР_ЧАША
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнир чаша
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШАРНИР_ШАР
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\шарнир шар
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: 688-2RS
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\688-2RS
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: 688-2RS
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\688-2RS
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: 688-2RS
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\688-2RS
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: 688-2RS
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\688-2RS
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ЗАДЕЛКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\заделка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: БОЛТ_М10
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\болт м10
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: М8
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\м8
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ЗАДЕЛКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\заделка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: М8
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\м8
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ВЕРХНИЙ_РЫЧАГ_4
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\верхний рычаг 4
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ЗАДЕЛКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\заделка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ЗАДЕЛКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\заделка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: АМОРТИЗАТОР
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\амортизатор
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ЗАДЕЛКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\заделка
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\подвеска
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\подвеска:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2350,6 +3326,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: МОТОР_КОЛЕСО
@@ -2363,6 +3340,20 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Колесо в сборе:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:59 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: МОТОР_КОЛЕСО
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мотор_колесо
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: КУЛАК_РУЛЕВОЙ_НОВЫЙ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\кулак рулевой новый
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Колесо в сборе
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Колесо в сборе:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2370,6 +3361,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: РУЛЕВОЕ_УПРАВЛЕНИЕ
@@ -2387,6 +3379,24 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Передний узел:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:59 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: РУЛЕВОЕ_УПРАВЛЕНИЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Рулевое управление
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПОДВЕСКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\подвеска
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: КОЛЕСО_В_СБОРЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Колесо в сборе
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Передний узел
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Передний узел:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2394,6 +3404,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: МОТОР_FLYIPSKY6374
@@ -2411,6 +3422,24 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Мотор в сборе:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:59 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: МОТОР_FLYIPSKY6374
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мотор_Flyipsky6374
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТАРЕЛКА_МОТОРА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\тарелка мотора
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: 51102
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\51102
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мотор в сборе
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мотор в сборе:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2418,6 +3447,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: УПОРНОЕ_КРЕПЛЕНИЕ
@@ -2431,6 +3461,20 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Упорное крепление в сборе:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:59 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: УПОРНОЕ_КРЕПЛЕНИЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Упорное крепление
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: УПОРНОЕ_КРЕПЛЕНИЕ_ОТВЕТНОЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Упорное крепление_ответное
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Упорное крепление в сборе
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Упорное крепление в сборе:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2438,6 +3482,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: МОСТ
@@ -2491,6 +3536,60 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Мост в сборе:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:59 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: МОСТ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мост
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: СТОЙКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Стойка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: УПОРНОЕ_КРЕПЛЕНИЕ_В_СБОРЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Упорное крепление в сборе
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: МОТОР_В_СБОРЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мотор в сборе
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: РЕДУКТОР
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Редуктор
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ВНЕШНЕЕ_КРЕПЛЕНИЕ_РЕДУКТОРА_ЧАСТЬ1
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Внешнее крепление редуктора часть1
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: СТОЙКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Стойка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПОДШИПНИК_6205_2RS
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Подшипник 6205 2RS
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПОДШИПНИК_3056205
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Подшипник 3056205
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_КРЕПЛЕНИЕ_НИЖНЕЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Крепление нижнее
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: КРЕПЛЕНИЕ_ВЕРХНЕЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Крепление верхнее
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_КРЕПЛЕНИЕ_ВЕРХНЕЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Крепление верхнее
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мост в сборе
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мост в сборе:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2498,6 +3597,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: ШПИЛЬКА_М16_ПОДВЕСКА
@@ -2531,6 +3631,40 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Тяга_длинная:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:59 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШПИЛЬКА_М16_ПОДВЕСКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Шпилька_М16_Подвеска
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБКА_ДЛИННАЯ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\трубка длинная
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБКА_ДЛИННАЯ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\трубка длинная
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПЕРЕХОДНИК
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Переходник
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПЕРЕХОДНИК
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Переходник
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПРОУШИНА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Проушина
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПРОУШИНА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Проушина
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Тяга_длинная
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Тяга_длинная:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2538,6 +3672,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:53 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: ШПИЛЬКА_М16_ПОДВЕСКА
@@ -2571,6 +3706,40 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Тяга короткая:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:59 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ШПИЛЬКА_М16_ПОДВЕСКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Шпилька_М16_Подвеска
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБКА_КОРОТКАЯ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\трубка_короткая
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБКА_КОРОТКАЯ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\трубка_короткая
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПРОУШИНА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Проушина
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПРОУШИНА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Проушина
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПЕРЕХОДНИК
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Переходник
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПЕРЕХОДНИК
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Переходник
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Тяга короткая
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Тяга короткая:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2578,6 +3747,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:54 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: МОСТ_В_СБОРЕ
@@ -2603,6 +3773,32 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Задний узел:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:59 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: МОСТ_В_СБОРЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Мост в сборе
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТЯГА_ДЛИННАЯ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Тяга_длинная
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТЯГА_КОРОТКАЯ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Тяга короткая
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: КОЛЕСО_4000X100
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Колесо 4000x100
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: КОЛЕСО_4000X100
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Колесо 4000x100
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Задний узел
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Задний узел:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2610,6 +3806,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:54 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: ТРУБА_20X40X350
@@ -2715,6 +3912,112 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\Рама_упрощённая:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:04:59 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X350
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x350
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X530
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x530
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X350
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x350
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X130
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x130
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X130
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x130
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X370
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x370
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X20X90
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x20x90
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X20X90
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x20x90
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X60
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x60
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X60
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x60
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X200
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x200
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X370
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x370
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X370
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x370
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_40X40X1010
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 40x40x1010
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X200
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x200
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X50
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x50
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X50
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x50
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X60
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x60
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X60
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x60
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X50
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x50
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X50
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x50
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X50
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x50
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X200
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x200
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X190
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x190
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ТРУБА_20X40X190
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Труба 20x40x190
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Рама_упрощённая
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\Рама_упрощённая:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2722,6 +4025,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:54 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: MIRROR_ПЕРЕХОДНОЕ_КРЕПЛЕНИЕ
@@ -2739,6 +4043,24 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Сервопривод с крепление:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:05:00 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ПЕРЕХОДНОЕ_КРЕПЛЕНИЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Переходное крепление
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_КАЧАЛКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_качалка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_DINAMIXEL_MX64
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Dinamixel MX64
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Сервопривод с крепление
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Сервопривод с крепление:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2746,6 +4068,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:54 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: MIRROR_ПОВОРОТНЫЙ_РЫЧАГ_СЕРЕДИНЫЙ
@@ -2763,6 +4086,24 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Поворотный рычаг новый:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:05:00 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ПОВОРОТНЫЙ_РЫЧАГ_СЕРЕДИНЫЙ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг серединый
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ПОВОРОТНЫЙ_РЫЧАГ_КРАЙНИЙ_0
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг крайний_0
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ПОВОРОТНЫЙ_РЫЧАГ_КРАЙНИЙ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг крайний
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг новый
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг новый:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2770,6 +4111,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:54 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: MIRROR_РУЛЕВАЯ_СОШКА
@@ -2795,6 +4137,32 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Рулевое управление:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:05:00 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_РУЛЕВАЯ_СОШКА
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_рулевая сошка
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_СЕРВОПРИВОД_С_КРЕПЛЕНИЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Сервопривод с крепление
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ШАРОВЫЙ_ШАРНИР_0
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Шаровый шарнир_0
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ПОВОРОТНЫЙ_РЫЧАГ_НОВЫЙ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Поворотный рычаг новый
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ШАРОВЫЙ_ШАРНИР
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Шаровый шарнир
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Рулевое управление
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Рулевое управление:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2802,6 +4170,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:54 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: MIRROR_МОТОР_КОЛЕСО
@@ -2815,6 +4184,20 @@
 ! ERROR-    Unable to archive C:\Users\danvl\Desktop\Робокросс_2026\mirror_Колесо в сборе:
 ! ERROR-     
 ! ERROR-    File already exists
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:05:00 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_МОТОР_КОЛЕСО
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Мотор_колесо
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_КУЛАК_РУЛЕВОЙ_НОВЫЙ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_кулак рулевой новый
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Колесо в сборе
+! ERROR-    Unable to archive C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Колесо в сборе:
+! ERROR-     
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2822,6 +4205,7 @@
 ! SUMMARY-  ------------------             -----
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                              0
+<<<<<<< Updated upstream
 ! STATUS-   Creating the UG part (Phase 3 of 3): 30-MAR-2026  3:06:54 PM
 ! WARNING-  Unable to create a component instance in the master part
 ! WARNING-    Component name: MIRROR_ШАРНИР_ЧАША_0
@@ -2896,6 +4280,82 @@
 ! WARNING-    Component part name: C:\Users\danvl\Desktop\Робокросс_2026\Передний узел
 ! WARNING-    Convert all component parts before converting the master part
 ! INFO-     Filing Part ..: C:\Users\danvl\Desktop\Робокросс_2026\Общая сборка V3_stp.prt
+=======
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-APR-2026  10:05:00 PM
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ШАРНИР_ЧАША_0
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир чаша_0
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_М8_0
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_м8_0
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ШАРНИР_ШАР_0
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир шар_0
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ШАРНИР_ШАР
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир шар
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_НИЖНИЙ_РЫЧАГ_3
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_нижний рычаг 3
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_688-2RS_2
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS_2
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_М8
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_м8
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_БОЛТ_М10
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_болт м10
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_688-2RS_1
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS_1
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_688-2RS_0
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS_0
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_688-2RS
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_688-2RS
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ШАРНИР_ЧАША
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_шарнир чаша
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_КОЛЕСО_В_СБОРЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Колесо в сборе
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_РУЛЕВОЕ_УПРАВЛЕНИЕ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_Рулевое управление
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: MIRROR_ВЕРХНИЙ_РЫЧАГ_4
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\mirror_верхний рычаг 4
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: РАМА_УПРОЩЁННАЯ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Рама_упрощённая
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ЗАДНИЙ_УЗЕЛ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Задний узел
+! WARNING-    Convert all component parts before converting the master part
+! WARNING-  Unable to create a component instance in the master part
+! WARNING-    Component name: ПЕРЕДНИЙ_УЗЕЛ
+! WARNING-    Component part name: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Передний узел
+! WARNING-    Convert all component parts before converting the master part
+! INFO-     Filing Part ..: C:\Users\User\Desktop\робокросссборка\Robokross_2026\Общая сборка V3_stp.prt
+>>>>>>> Stashed changes
 ! SUMMARY-   
 ! SUMMARY-  Summary of Unigraphics Part Entities
 ! SUMMARY-   
@@ -2912,5 +4372,9 @@
 ! INFO-      
 ! INFO-     Number of solids ending up as sheet bodies              :         0
 ! INFO-      
+<<<<<<< Updated upstream
 ! INFO-     End of Translation: 30-MAR-2026  3:06:55 PM
+=======
+! INFO-     End of Translation: 4-APR-2026  10:05:00 PM
+>>>>>>> Stashed changes
 ! INFO-      
