@@ -1,0 +1,41 @@
+﻿INFO-
+INFO-		Unigraphics Version NX V10.0 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Sat May 16 23:28:53 2026
+INFO-
+STATUS-		Converting C:\Users\danvl\AppData\Local\Temp\danv401403605cuw.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\danvl\AppData\Local\Temp\danv401403605cuw.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	20
+SUMMARY-	Arc ......................................:	6
+SUMMARY-	Circle ......................................:	4
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	30
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\danvl\Desktop\Робокросс_2026\Передний узел\Подвеска передняя\Крепление_рычагов.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Arc ......................................:	6
+SUMMARY-	Circle ...................................:	4
+SUMMARY-	Line .....................................:	20
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	36
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sat May 16 23:28:53 2026
+INFO-		Translation CPU time: 0 m, 0 sINFO-
