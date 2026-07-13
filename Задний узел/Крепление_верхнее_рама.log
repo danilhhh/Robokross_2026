@@ -1,0 +1,39 @@
+﻿INFO-
+INFO-		Unigraphics Version NX V10.0 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Sat Jul 04 17:50:51 2026
+INFO-
+STATUS-		Converting C:\Users\Hi\AppData\Local\Temp\Hi066CDEFEn323.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\Hi\AppData\Local\Temp\Hi066CDEFEn323.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	10
+SUMMARY-	Circle ......................................:	3
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	13
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\Hi\Desktop\Робокросс_2026\Задний узел\Крепление_верхнее_рама.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Circle ...................................:	3
+SUMMARY-	Line .....................................:	10
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	19
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Sat Jul 04 17:50:51 2026
+INFO-		Translation CPU time: 0 m, 0 sINFO-
